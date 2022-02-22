@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "main": "src/main.ts",
   "homepage": "https://www.myfreax.com",
-  "repository": "https://github.com/huangyanxiong01/webrtc-stun.git",
+  "repository": "https://github.com/huangyanxiong01/webrtc-stun",
   "author": "Freax <huangyanxiong2013@gmail.com>",
   "license": "Apache-2.0",
   "scripts": {
